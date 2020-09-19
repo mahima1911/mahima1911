@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.jpeg "Header")](https://www.linkedin.com/in/mahima1911/)
+[![Header](/readme_header.jpeg "Header")](https://www.linkedin.com/in/mahima1911/)
 
 <!--
 **mahima1911/mahima1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
