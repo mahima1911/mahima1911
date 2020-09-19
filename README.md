@@ -4,10 +4,20 @@
 [![Header](/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/)
 <p align="center">
     <a href="https://www.linkedin.com/in/mahima1911" >
-    <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/mahima1911/mahima1911/master/img/LinkedIn.svg">
-
+        <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/mahima1911/mahima1911/master/img/LinkedIn.svg">
     </a>
-    </p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://mahima1911.github.io" >
+        <img alt = "Mahi's Portfolio Website" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/internet.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:mahimamahima18056@it.ssn.edu.in" >
+        <img alt = "Mahima's mail" width="30px" src="https://raw.githubusercontent.com/mahima1911/mahima1911/master/img/Gmail.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt = "Mahima's Profile View"  src=https://komarev.com/ghpvc/?username=mahima1911&color=blue&label=Profile+Views>
+</p>
+
 
 
 <!--
