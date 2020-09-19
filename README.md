@@ -24,6 +24,7 @@
 :computer: I’m looking to collaborate on: **Any ML / Data Science / Android / Python / C++ based projects**<br>
 
 ### Some stats:
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mahima1911&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahima's GitHub Stats" />
