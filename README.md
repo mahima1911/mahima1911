@@ -1,5 +1,12 @@
 ### Hi there 👋
+<h2 align="center"> Hi there, I am Mahima 👋 </h2>
+
 [![Header](/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/mahima1911" >
+    </a>
+    </p>
+
 
 <!--
 **mahima1911/mahima1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
