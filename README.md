@@ -35,6 +35,7 @@
 ![](https://img.shields.io/badge/Code-Java-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Firebase-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Anaconda-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Django-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-MySQL-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 
