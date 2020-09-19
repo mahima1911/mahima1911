@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2 align="center"> Hi there, I am Mahima 👋 </h2>
 
 [![Header](/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/)
@@ -8,15 +7,15 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mahimamahima18056@it.ssn.edu.in" >
-        <img alt = "Mahima's mail" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/Gmail.svg">
+        <img alt = "Mahima's mail" width="30px" src="https://raw.githubusercontent.com/mahima1911/mahima1911/master/images/Gmail.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!---   <img alt = "Badri's Profile View"  src="https://komarev.com/ghpvc/?username=mahima1911&color=blue&label=Profile+Views"> --->
+    <img alt = "Mahima's Profile View"  src="https://komarev.com/ghpvc/?username=mahima1911&color=blue&label=Profile+Views"> 
 </p>
 
 ### A little bit more about me: <br>
 :one: I'm currently pursuing my bacherlors in **Information Technology** at [SSN College of Engineering](https://www.ssn.edu.in) , Chennai. <br>
-:two: I am interested in the fields of Machine Learning , Data Science, Deep Learning and Android App Development. I would like to work in the aforementioned fields and develop real world solutions.<br>
+:two: I am passionate about coding, Machine Learning , Data Science, Deep Learning and Android App Development. I would like to work in the aforementioned fields and develop real world solutions.<br>
 :three: I am interested in making contributions to the Open Source Source community so please free to mail me incase you have any projects :smiley:.<br>
 <hr>
 
