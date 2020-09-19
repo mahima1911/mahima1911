@@ -4,6 +4,8 @@
 [![Header](/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/)
 <p align="center">
     <a href="https://www.linkedin.com/in/mahima1911" >
+    <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/mahima1911/mahima1911/master/img/LinkedIn.svg">
+
     </a>
     </p>
 
