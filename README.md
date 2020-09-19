@@ -25,7 +25,7 @@
 
 ### Tools and Technologies :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-brightgreen style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=<Python>&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-C++-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
