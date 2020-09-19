@@ -1,9 +1,13 @@
 <h2 align="center"> Hi there, I am Mahima 👋 </h2>
 
-[![Header](/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/)
+[![Header](/images/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/)
 <p align="center">
     <a href="https://www.linkedin.com/in/mahima1911" >
         <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/mahima1911/mahima1911/master/images/LinkedIn.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/mxhima1911/account" >
+        <img alt = "Mahima's Kaggle" width="30px" src="https://raw.githubusercontent.com/mahima1911/mahima1911/master/images/kaggle.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mahimamahima18056@it.ssn.edu.in" >
