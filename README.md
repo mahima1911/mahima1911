@@ -23,12 +23,21 @@
 :books: I’m currently learning: **Deep Learning** and **Natural Language Prcoessing**<br>
 :computer: I’m looking to collaborate on: **Any ML / Data Science / Android / Python / C++ based projects**<br>
 
-### Some stats:
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### Tools and Technologies :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Android Studio-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Django-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-yellow?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
+
+
+### Some stats:
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mahima1911&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahima's GitHub Stats" />
 <br>
