@@ -13,15 +13,16 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!---   <img alt = "Badri's Profile View"  src="https://komarev.com/ghpvc/?username=mahima1911&color=blue&label=Profile+Views"> --->
 </p>
-### A little bit more about me:
+
+### A little bit more about me: <br>
 :one: I'm currently pursuing my bacherlors in **Information Technology** at [SSN College of Engineering](https://www.ssn.edu.in) , Chennai. <br>
 :two: I am interested in the fields of Machine Learning , Data Science, Deep Learning and Android App Development. I would like to work in the aforementioned fields and develop real world solutions.<br>
-:three: I am interested in making contributions to the Open Source 
+:three: I am interested in making contributions to the Open Source Source community so please free to mail me incase you have any projects :smiley:.<br>
+<hr>
 
 
-
-> :books: I’m currently learning: **Deep Learning** and **Natural Language Prcoessing**<br>
-> :computer: I’m looking to collaborate on: **Any ML / Data Science / Android / Python / C++ based projects**<br>
+:books: I’m currently learning: **Deep Learning** and **Natural Language Prcoessing**<br>
+:computer: I’m looking to collaborate on: **Any ML / Data Science / Android / Python / C++ based projects**<br>
 
 ### Some stats:
 
