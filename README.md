@@ -18,9 +18,7 @@
 </p>
 
 ### About me: <br>
-:one: I'm currently pursuing my bacherlors in **Information Technology** at [SSN College of Engineering](https://www.ssn.edu.in) , Chennai. <br>
-:two: I am passionate about coding, Machine Learning , Data Science, Deep Learning and Android App Development. I would like to work in the aforementioned fields and develop real world solutions.<br>
-:three: I am interested in making contributions to the Open Source community so please feel free to mail me incase you have any projects :smiley:.<br>
+Hi! I am Mahima an MSCS student at Umass Amherst, and an accomplished software engineer with a fervent passion for technology and innovation. Proficient across an array of languages including C++, Python, Java, and more, I possess a dynamic skill set spanning Data Analysis, Machine Learning, Deep Learning, Mobile App development, Web Development, and 3D Modelling. My experience as an Associate Software Engineer at Navis Technologies honed my ability to deliver robust solutions, while my proficiency in Oracle SQL, MySQL, and Firebase equips me to excel in database management. Leveraging libraries like Scikit-learn, Keras, and technologies including Git, Jira, Flutter, Google Colab, and Blender, I am excited to collaborate on ventures that harness the transformative potential of technology. Let's connect to explore how my fervor and expertise can contribute to groundbreaking projects.
 <hr>
 
 
